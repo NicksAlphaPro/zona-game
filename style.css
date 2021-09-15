@@ -77,6 +77,11 @@ body {
 
 button {
   background-color: #fff;
+  width: 83px;
+  border-radius: 5px;
+  align-items: center;
+  margin: left;
+  align-content: center;
 }
 
 /*-------------------------------------------------------------------------------------*/
@@ -382,4 +387,11 @@ button {
   border-radius: 5px;
   align-items: center;
   margin: left;
+  align-content: center;
+}
+
+.carrinho img {
+  display: flex;
+  align-items: center;
+  text-align: center;
 }
