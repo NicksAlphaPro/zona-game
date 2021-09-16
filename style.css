@@ -55,11 +55,6 @@ body {
   font-size: 20px;
 }
 
-/*estilo universal novamente para todos os cartões de produto*/
-.alienisolationnostromoedition:hover, .blairwitch:hover, .callofdutymordenwarfare:hover {
-  opacity: .8;
-}
-
 .cursor {
   cursor: pointer;
   border-bottom-left-radius: 20px;

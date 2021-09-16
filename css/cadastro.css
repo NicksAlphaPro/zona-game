@@ -37,7 +37,6 @@ nav {
 }
 
 main {
-  background: url("bg.jpg") no-repeat center center;
   background-size: cover;
   height: 92vh;
 }
@@ -208,6 +207,6 @@ input[type="submit"] {
   display: none;
 }
 
-textarea{
+textarea {
   width: 450px;
 }
